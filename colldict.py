@@ -30,4 +30,5 @@ my_dict.clear()
 print(my_dict)
 
 del my_dict
+print("my_dict deleted")
 #print(my_dict)
